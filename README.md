@@ -19,6 +19,7 @@ i am also an open-source,DevOps enthusiast. i learned a lot from the open-source
 - 💼 any freelance work? do reach, [email](mailto:byrxarpitsingh@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=radical' />
-<img aligh='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=JKirito&layout=compact' />
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=dracula&hide=stars' />
+<!-- <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/wakatime?username=JKirito' /> -->
+<img aligh='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=JKirito&layout=compact&hide=Lua&langs_count=6' />
 
