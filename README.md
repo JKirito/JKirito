@@ -1,4 +1,4 @@
-### Hi there I am Arpit! 👋
+### Hi, I am Arpit Singh, Welcome to my Github profile where code meets creativity and innovation takes flight 👋
 
 <p>
 <img align='left' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
