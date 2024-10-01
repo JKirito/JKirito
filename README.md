@@ -65,7 +65,7 @@ I'm an enthusiastic, self-taught, full-stack web developer and software engineer
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/arpitsingh-jkirito/">
     <img src="https://img.shields.io/badge/-Arpit%20Singh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:byrxarpitsingh@gmail.com">
