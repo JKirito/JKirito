@@ -1,78 +1,82 @@
-# Hi, I'm Arpit Singh 👋
-
-Welcome to my Github profile where code meets creativity and innovation takes flight!
+# Arpit Singh
 
 <p align="center">
   <a href="https://github.com/JKirito">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Self-taught;Always%20exploring%20trending%20Tech&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Product+Builder;Cloud+%26+Infra+Engineer&font=Fira+Code&center=true&width=440&height=45&color=a855f7&vCenter=true&pause=1000&size=22">
   </a>
 </p>
 
-## 🚀 Tech Stack
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="Travis CI" />
+### About
+
+Self-taught full-stack developer and software engineer based in Melbourne, Australia. I build AI-powered products, design scalable cloud infrastructure, and care deeply about clean architecture and great user experiences.
+
+- Based in **Melbourne, Australia**
+- Open for **freelance work**
+- Reach me at **[byrxarpitsingh@gmail.com](mailto:byrxarpitsingh@gmail.com)**
+
+---
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-## 📊 GitHub Stats
+**Frontend**
 
-<p align="center">
-  <a href="https://github.com/JKirito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKirito&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/JKirito">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKirito&theme=radical" alt="JKirito" />
-  </a>
+**Backend & Runtime**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
-## 🏆 GitHub Profile Trophy
+**Cloud & Infrastructure**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JKirito&theme=dracula&column=7" alt="JKirito" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 📈 GitHub Contributions
+**AI & Product**
 
-<p align="center">
-  <a href="https://github.com/JKirito">
-    <img src="https://github-contributor-stats.vercel.app/api?username=JKirito&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
 </p>
 
-## 🧑‍💻 About Me
+---
 
-I'm an enthusiastic, self-taught, full-stack web developer and software engineer based in Melbourne, Australia. My passion for software lies in imagining concepts and bringing them to life with aesthetically pleasing interfaces. I pay close attention to the experience, architecture, and code quality of the products I develop.
+### GitHub Stats
 
-- 🌍 Based in Melbourne, Australia
-- 💼 Open for freelance work
-- 📫 Reach me at: [byrxarpitsingh@gmail.com](mailto:byrxarpitsingh@gmail.com)
-- 💬 Ask me about anything, I'm happy to help!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
-## 🤝 Connect With Me
+---
+
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpitsingh-jkirito/">
-    <img src="https://img.shields.io/badge/-Arpit%20Singh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:byrxarpitsingh@gmail.com">
-    <img src="https://img.shields.io/badge/-byrxarpitsingh@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/JKirito">
-    <img src="https://img.shields.io/badge/-JKirito-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -80,8 +84,4 @@ I'm an enthusiastic, self-taught, full-stack web developer and software engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JKirito&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From [Arpit Singh](https://github.com/JKirito)</i>
 </p>
