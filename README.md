@@ -13,7 +13,9 @@
 Self-taught full-stack developer and software engineer based in Melbourne, Australia. I build AI-powered products, design scalable cloud infrastructure, and care deeply about clean architecture and great user experiences.
 
 - Based in **Melbourne, Australia**
-- Open for **freelance work**
+- Currently building **AI-powered products** and managing cloud infrastructure at scale
+- Exploring the intersection of **LLMs, developer tooling, and automation**
+- Open for **freelance work** and interesting collaborations
 - Reach me at **[byrxarpitsingh@gmail.com](mailto:byrxarpitsingh@gmail.com)**
 
 ---
@@ -61,8 +63,38 @@ Self-taught full-stack developer and software engineer based in Melbourne, Austr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged&rank_icon=github" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKirito&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JKirito&theme=discord&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+</p>
+
+---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JKirito&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKirito/JKirito/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JKirito/JKirito/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JKirito/JKirito/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
