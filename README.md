@@ -1,9 +1,9 @@
 # Arpit Singh
 
 <p align="center">
-  <a href="https://github.com/JKirito">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Product+Builder;Cloud+%26+Infra+Engineer&font=Fira+Code&center=true&width=440&height=45&color=a855f7&vCenter=true&pause=1000&size=22">
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-a855f7?style=for-the-badge" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/AI_Product_Builder-7c3aed?style=for-the-badge" alt="AI Product Builder" />
+  <img src="https://img.shields.io/badge/Cloud_&_Infra_Engineer-6d28d9?style=for-the-badge" alt="Cloud & Infra Engineer" />
 </p>
 
 ---
@@ -56,26 +56,6 @@ Self-taught full-stack developer and software engineer based in Melbourne, Austr
 <p>
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JKirito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKirito&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JKirito&theme=discord&column=7&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
 ---
