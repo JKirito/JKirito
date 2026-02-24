@@ -10,10 +10,10 @@
 
 ### About
 
-Self-taught full-stack developer and software engineer based in Melbourne, Australia. I build AI-powered products, design scalable cloud infrastructure, and care deeply about clean architecture and great user experiences.
+Self-taught full-stack developer and software engineer based in Melbourne, Australia. I build AI-powered products, configure and architect cloud systems, and care deeply about clean architecture and great user experiences.
 
 - Based in **Melbourne, Australia**
-- Currently building **AI-powered products** and managing cloud infrastructure at scale
+- Currently building **AI-powered products** and managing cloud infrastructure and DevOps
 - Exploring the intersection of **LLMs, developer tooling, and automation**
 - Open for **freelance work** and interesting collaborations
 - Reach me at **[byrxarpitsingh@gmail.com](mailto:byrxarpitsingh@gmail.com)**
