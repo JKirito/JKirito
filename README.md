@@ -60,6 +60,15 @@ Self-taught full-stack developer and software engineer based in Melbourne, Austr
 
 ---
 
+### Currently Building
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[learnwise](https://github.com/JKirito/learnwise)** | Learning Management System with AI-powered content generation, adaptive learning paths, and intelligent assessments | TypeScript, React, Node.js, OpenAI |
+| **[omnichat](https://github.com/JKirito/omnichat)** | Unified chat interface across every major AI model — real-time conversations powered by Convex | TypeScript, React, Convex, Multi-model AI |
+
+---
+
 ### Activity Graph
 
 <p align="center">
