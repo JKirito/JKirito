@@ -99,6 +99,9 @@ Self-taught full-stack developer and software engineer based in Melbourne, Austr
   <a href="https://github.com/JKirito">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://arpitsingh.dev">
+    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
