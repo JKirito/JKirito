@@ -11,19 +11,6 @@ I build products end to end: the frontend, the backend, the infrastructure, and 
 
 ---
 
-### 📊 Where my commits are
-
-Most of what I build lives in private repositories at work, so it doesn't show up on GitHub by default.
-
-<p>
-  <img src="https://img.shields.io/badge/3,290+_commits-since_Nov_2024-7c3aed?style=for-the-badge" alt="3,290+ commits since Nov 2024" />
-  <img src="https://img.shields.io/badge/366_days-with_commits-5b21b6?style=for-the-badge" alt="366 days with commits" />
-</p>
-
-My contribution graph includes that activity as timestamp-only commits in a private repo. No code, commit messages, or project names leave the original repositories.
-
----
-
 ### 🏗️ What I build
 
 - **AI agent platforms.** Agent runtimes that run durably, stream results in real time, and connect to tools, memory, and MCP. I build them for the web and for the apps people already work in.
@@ -59,6 +46,19 @@ In college I spent most of my time in **Blender**, **Unity**, and **Unreal Engin
 Blender is still my go-to tool, and I'm always happy to open it again.
 
 These days I spend my free time in **Elden Ring** and **Dark Souls**, or playing **Valorant** and **Apex Legends**. Souls games taught me a lot about debugging: die, learn the pattern, try again.
+
+---
+
+### 📊 Where my commits are
+
+Most of what I build lives in private repositories at work, so it doesn't show up on GitHub by default.
+
+<p>
+  <img src="https://img.shields.io/badge/3,290+_commits-since_Nov_2024-7c3aed?style=for-the-badge" alt="3,290+ commits since Nov 2024" />
+  <img src="https://img.shields.io/badge/366_days-with_commits-5b21b6?style=for-the-badge" alt="366 days with commits" />
+</p>
+
+My contribution graph includes that activity as timestamp-only commits in a private repo. No code, commit messages, or project names leave the original repositories.
 
 ---
 
