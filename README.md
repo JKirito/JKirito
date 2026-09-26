@@ -2,8 +2,8 @@
 
 I build products end to end: the frontend, the backend, the infrastructure, and everything in between. Give me a problem and I'll own it from the first commit to production and keep it running after that.
 
-- 🧩 **I'll work on any problem.** AI agents, distributed systems, realtime UIs, and infrastructure are all part of the job.
-- 🛠️ **I care about building products.** I want them to be useful, reliable, and good to use.
+- 🧩 **I'll take on any problem.** AI agents, backends, frontends, infrastructure: if the product needs it, I build it.
+- 🎨 **I'm a product person.** I care a lot about UI/UX and I notice problems in things that look fine to everyone else. I keep refining an experience until it feels right, because good products come from good experiences.
 - 🚀 **I take ownership from zero to shipped.** That means design, code, tests, deploys, observability, and support.
 - 🤖 **I'm AI-forward.** I build AI products, I use AI coding agents every day, and I follow everything happening in the field.
 
