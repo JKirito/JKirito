@@ -7,7 +7,7 @@ I build products end to end: the frontend, the backend, the infrastructure, and 
 - 🚀 **I take ownership from zero to shipped.** That means design, code, tests, deploys, observability, and support.
 - 🤖 **I'm AI-forward.** I build AI products, I use AI coding agents every day, and I follow everything happening in the field.
 
-📍 Melbourne, Australia
+📍 Melbourne, Australia · If I'm not shipping something, I'm probably benchmarking a new model or dying to a boss in Elden Ring.
 
 ---
 
@@ -34,15 +34,47 @@ I usually take a product from an idea to production on my own, then keep improvi
 
 ---
 
+### 🧪 My local model lab
+
+I have a machine at home for running models locally, and it's where I spend a lot of my free time.
+
+- I serve open-weight models with **vLLM**, **SGLang**, and **Ollama**, and compare how they perform on my own hardware.
+- I build RAG pipelines and run bulk data-processing jobs to see what actually holds up outside a demo.
+- I try new model releases and architectures soon after they come out, then decide what's worth bringing into my own work.
+
+I follow the industry closely. I take it seriously, but mostly it's fun: I like learning new things and solving problems.
+
+---
+
+### 🎮 Before I wrote code, I built worlds
+
+I'm mostly self-taught. I did get my degrees, but I learned the most by building things.
+
+In college I spent most of my time in **Blender**, **Unity**, and **Unreal Engine**, making 3D games and environments. My biggest project was a recreation of PUBG's Playground mode:
+
+- I modelled every asset by hand.
+- It took about two months to build the full realistic environment.
+- Along the way I learned the whole game pipeline: modelling, texturing in **Substance Painter**, sound design, composition, camera work, animation, and scripting.
+
+Blender is still my go-to tool, and I'm always happy to open it again.
+
+These days I spend my free time in **Elden Ring** and **Dark Souls**, or playing **Valorant** and **Apex Legends**. Souls games taught me a lot about debugging: die, learn the pattern, try again.
+
+---
+
 ### 🧰 Tools I use
 
 **AI:** Vercel AI SDK · OpenAI / Azure OpenAI · MCP · agents & tool calling · RAG · evals · AI coding agents
+
+**Local AI:** vLLM · SGLang · Ollama · open-weight models · RAG pipelines
 
 **Frontend:** TypeScript · React · Vite · Tailwind · TipTap · D3 · Office.js
 
 **Backend:** Bun · Hono · Express · Convex · Redis / BullMQ · MongoDB · PostgreSQL · Elasticsearch
 
 **Infra:** Azure (Container Apps, Static Web Apps, Blob, Entra ID, App Insights) · Docker · Envoy · Nginx · OpenTelemetry · Azure Pipelines
+
+**3D & games:** Blender · Unity · Unreal Engine · Substance Painter
 
 ---
 
