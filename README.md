@@ -1,111 +1,89 @@
-# Arpit Singh
+## Hi, I'm Arpit 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-a855f7?style=for-the-badge" alt="Full-Stack Developer" />
-  <img src="https://img.shields.io/badge/AI_Product_Builder-7c3aed?style=for-the-badge" alt="AI Product Builder" />
-  <img src="https://img.shields.io/badge/Cloud_&_Infra_Engineer-6d28d9?style=for-the-badge" alt="Cloud & Infra Engineer" />
-</p>
+I build products end to end: the frontend, the backend, the infrastructure, and everything in between. Give me a problem and I'll own it from the first commit to production and keep it running after that.
 
----
+- 🧩 **I'll work on any problem.** Distributed systems, realtime UI, Office.js, search, billing, and deployment are all part of the job.
+- 🛠️ **I care about building products.** I want them to be useful, reliable, and good to use.
+- 🚀 **I take ownership from zero to shipped.** That means design, code, tests, deploys, observability, and support.
+- 🤖 **I'm AI-forward.** I build AI products, I use AI coding agents every day, and I follow everything happening in the field.
 
-### About
-
-Self-taught full-stack developer and software engineer based in Melbourne, Australia. I build AI-powered products, configure and architect cloud systems, and care deeply about clean architecture and great user experiences.
-
-- Based in **Melbourne, Australia**
-- Currently building **AI-powered products** and managing cloud infrastructure and DevOps
-- Exploring the intersection of **LLMs, developer tooling, and automation**
-- Open for **freelance work** and interesting collaborations
-- Reach me at **[byrxarpitsingh@gmail.com](mailto:byrxarpitsingh@gmail.com)**
+📍 Melbourne, Australia
 
 ---
 
-### Tech Stack
+### 📊 Where my commits are
 
-**Languages**
+Most of my work happens in private company repositories on Azure DevOps, so it doesn't show up on GitHub by default.
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/3,290+_commits-since_Nov_2024-7c3aed?style=for-the-badge" alt="3,290+ commits since Nov 2024" />
+  <img src="https://img.shields.io/badge/14_private_repos-mostly_solo-6d28d9?style=for-the-badge" alt="14 private repos, mostly solo" />
+  <img src="https://img.shields.io/badge/366_days-with_commits-5b21b6?style=for-the-badge" alt="366 days with commits" />
 </p>
 
-**Frontend**
+My contribution graph includes that activity. Each work commit appears as an empty commit with the same timestamp in a private mirror repo. No code, commit messages, or repository names leave the company repos.
+
+---
+
+### 🏗️ What I've built at work
+
+**Curiosity: a multi-client AI agent platform.** I'm the sole engineer.
+One agent runtime serves a web chat app and native **Word, Excel, PowerPoint, and Outlook** add-ins. It's about 70K lines of TypeScript with about 700 tests.
+
+- **Agent runtime**
+  - Each run is executed by a single worker that holds a lease on it.
+  - Work is dispatched from self-hosted **Convex** into **BullMQ/Redis** queues and executed by **Bun** workers.
+  - Output streams over SSE backed by **Redis Streams**, and clients can resume after a disconnect.
+  - Runs can be cancelled cleanly.
+  - The queue protocol is versioned.
+- **Safe edits to Office documents**
+  - The model's tools run inside the user's Office document.
+  - Tool calls are claimed under leases.
+  - Results are recorded in a journal, and a write interrupted mid-flight is never repeated.
+  - The user approves destructive actions.
+- **20 Office.js tools**, including:
+  - Word reports generated as raw OOXML.
+  - About 85 Excel actions, including pivot tables and conditional formatting.
+  - PowerPoint slides the model renders and inspects to correct its own designs.
+- **Context and memory**
+  - Prompt caching and token budgeting.
+  - Structured compaction of long conversations.
+  - Long-term memory with hybrid keyword and vector search, plus version history.
+  - Rolling summaries of past chats.
+- **Skills and tools**
+  - A versioned skills system, with an LLM that decides when a skill is relevant.
+  - MCP integrations, including an Elasticsearch MCP server for company documents with index allowlists.
+  - Document retrieval over attachments, image generation, and handing tasks between agents.
+- **Platform**
+  - Entra ID auth, checked at the API and again at the database layer.
+  - A credit ledger in integer micro-USD that stays correct when operations repeat.
+  - OpenTelemetry tracing, eval harnesses for the agent, and Azure deployment with Docker, Envoy, Container Apps, and Static Web Apps.
+
+**Einstein: an internal knowledge and analytics platform**
+- **Frontend:** React 19, about 83K lines. It includes the Curiosity chat UI with resumable streaming and a live view of the agent's tool calls, cost and duration benchmarking with D3 regression and Gantt charts, a How-To guide library, maps, and admin tooling.
+- **Backend:** Express, MongoDB, Postgres, and Elasticsearch, with about 100 endpoints. It includes enterprise search across SharePoint and regional file shares, filtered by each user's document permissions.
+
+**Also shipped:** an assessment platform (frontend and backend), an AI bill-extraction pipeline with SharePoint and Entra sync, a visitor portal, a CMS-backed hub, and the Envoy relay in front of the stack.
+
+---
+
+### 🧰 Tools I use
+
+**AI:** Vercel AI SDK · OpenAI / Azure OpenAI · MCP · agents & tool calling · RAG · evals · AI coding agents
+
+**Frontend:** TypeScript · React · Vite · Tailwind · TipTap · D3 · Office.js
+
+**Backend:** Bun · Hono · Express · Convex · Redis / BullMQ · MongoDB · PostgreSQL · Elasticsearch
+
+**Infra:** Azure (Container Apps, Static Web Apps, Blob, Entra ID, App Insights) · Docker · Envoy · Nginx · OpenTelemetry · Azure Pipelines
+
+---
+
+### 🔗 Connect
 
 <p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
-
-**Backend & Runtime**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-</p>
-
-**Cloud & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-**AI & Product**
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-</p>
-
----
-
-### Currently Building
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[learnwise](https://github.com/JKirito/learnwise)** | Learning Management System with AI-powered content generation, adaptive learning paths, and intelligent assessments | TypeScript, React, Node.js, OpenAI |
-| **[omnichat](https://github.com/JKirito/omnichat)** | Unified chat interface across every major AI model — real-time conversations powered by Convex | TypeScript, React, Convex, Multi-model AI |
-
----
-
-### Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JKirito&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKirito/JKirito/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JKirito/JKirito/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JKirito/JKirito/output/github-snake-dark.svg" />
-</picture>
-
----
-
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arpitsingh-jkirito/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:byrxarpitsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/JKirito">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://arpitsingh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JKirito&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://arpitsingh.dev"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arpitsingh-jkirito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Arpit_JKirito"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:byrxarpitsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
